@@ -17,3 +17,4 @@ Support Vector Machines (SVMs): These can also be used for classification but ma
 Datasets: The MNIST dataset is one of the most well-known benchmarks for digit recognition, containing thousands of labeled handwritten digits.
 
 Evaluation Metrics: Accuracy, precision, recall, and F1-score are commonly used metrics to assess the performance of digit recognition models.
+
